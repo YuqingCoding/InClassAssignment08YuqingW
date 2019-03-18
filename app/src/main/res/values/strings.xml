@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">StudyGuide</string>
+    <string name="australia">Australia</string>
+    <string name="africa">Africa</string>
+    <string name="america">America</string>
+    <string name="asia">Asia</string>
+    <string name="desert">Desert</string>
+    <string name="canada">Canada</string>
+
+    <string name="question_australia">The capital city is Sydney.</string>
+    <string name="question_africa">There are more than 2000 elephants.</string>
+    <string name="question_america">Hawaii has the most active volcano.</string>
+    <string name="question_asia">Yellow River is the longest river in Asia.</string>
+    <string name="question_desert">Sahara desert is located in Africa.</string>
+    <string name="question_canada">There is a part speaking French.</string>
+
+    <string name="australia_true">true</string>
+</resources>
